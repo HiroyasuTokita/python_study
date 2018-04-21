@@ -69,3 +69,5 @@ print(test_str + '/')
 
 test_str = test_str.rstrip("com")
 print(test_str)
+
+print('文字列終了')
